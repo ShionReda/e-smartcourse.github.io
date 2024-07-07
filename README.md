@@ -1,1 +1,1 @@
-# e-smartcourse.io
+# e-smartcourse.github.io
